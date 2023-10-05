@@ -1,0 +1,21 @@
+virtual enviremoent 
+    pip install virtualenv
+    python3 -m venv env
+
+activate virtual enviroment
+    source env/bin/activate
+
+to check installed packages in system/virtual envirement
+    pip freeze
+ 
+deactivate virtual enviroment
+    deactivate
+
+
+
+Django install  
+    pip install Django
+
+
+
+django-admin startproject mysite .
